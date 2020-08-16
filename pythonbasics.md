@@ -185,4 +185,3 @@ Functions in python are defined using the block keyword "def", followed with the
     my_function_with_args("John Doe", "a great year!")
 
     ```
-
