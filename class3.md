@@ -7,10 +7,8 @@ In Python, there is no need for importing external library to read and write fil
 To open a file, you need to use the built-in open function. The open function returns a file object that contains methods and attributes to perform various operations on the file.
 
 Syntax:
-
     ```
     file_object  = open("filename", "mode") 
-
     ```
   
 The most commonly used options for modes are the following:
@@ -70,6 +68,7 @@ You can raise exceptions in several ways by using the raise statement. The gener
 
 Syntax
     ```
-      raise [Exception [, args [, traceback]]]
+    raise [Exception [, args [, traceback]]]
     ```
+
 Here, Exception is the type of exception (for example, NameError) and argument is a value for the exception argument. The argument is optional; if not supplied, the exception argument is None.
