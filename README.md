@@ -13,8 +13,8 @@ The goal of this site is to assist me in documenting key topics and reminders ab
 | [Python Basics](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/pythonbasics) |
 | [Beginners Guide to Big O](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class1) |
 | [Pytest](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class2) |
-| [Python](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class3) |
-| [Python](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/) |
+| [Files Reading and Writing](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class3) |
+| [Classes and objects](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class4) |
 | [Python](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/) |
 | [Python](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/) |
 | [Python](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/) |
