@@ -16,7 +16,6 @@ The Random module contains some very useful functions listed bellow.
     import random
     print random.randint(0, 5)
 
-<hr>
 
 #### Choice
 
@@ -53,6 +52,7 @@ The Random module contains some very useful functions listed bellow.
     for i in range(3):
     print random.randrange(0, 101, 5)
 
+<hr>
 
 # Risk Analysis in Software Testing
 
@@ -105,6 +105,7 @@ There are three steps:
 
 3. Measures for the risk identified
 
+<hr>
 
 # Big O Notation
 
@@ -119,6 +120,9 @@ Big O takes the upper bound. The worst-case results in the worst execution of th
 ![bigO](/img/big.PNG)
 
 Where the further right they are, the longer it takes. n is the size of the input. Big O notation uses these functions to describe algorithm efficiency.
+
+<hr>
+
 
 # Dependency Injection
 
