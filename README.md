@@ -17,7 +17,7 @@ The goal of this site is to assist me in documenting key topics and reminders ab
 | [Classes and objects](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class4) |
 | [Linked Lists](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class5) |
 | [Python](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class6) |
-| [Python](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/) |
+| [Python](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class7) |
 | [Python](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/) |
 | [Python](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/) |
 | [Python](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/) |
