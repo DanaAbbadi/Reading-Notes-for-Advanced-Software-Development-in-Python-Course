@@ -35,3 +35,16 @@ To inspect the names within your main global scope, you can use dir(). If you ca
 
 This is the widest scope that exists! All the special reserved keywords fall under this scope. We can call the keywords anywhere within our program without having to define them before use.
 
+# Big O Notation
+
+![Big O](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSIQGtxnaaQWv1caPkTNrvu5Mqt3_uki74OvQ&usqp=CAU)
+
+In computer science, time complexity is the computational complexity that describes the amount of time it takes to run an algorithm.
+
+Big O notation is a method for determining how fast an algorithm is. Using Big O notation, we can learn whether our algorithm is fast or slow. This knowledge lets us design better algorithms.
+
+Big O takes the upper bound. The worst-case results in the worst execution of the algorithm. 
+
+![bigO](/img/big.PNG)
+
+Where the further right they are, the longer it takes. n is the size of the input. Big O notation uses these functions to describe algorithm efficiency.
