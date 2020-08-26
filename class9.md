@@ -81,7 +81,7 @@ The curve, which represents the probabilty distribution function is often known 
 
      * ![img](https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1539784816/output_5_0_f453qp.png)
 
-![img2](https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1539784816/output_7_0_eyzh5s.png)
+![img2](https://www.statisticshowto.com/wp-content/uploads/2013/09/uniform-distribution.gif)
 
 
  #### **In Python**
@@ -99,9 +99,7 @@ The curve, which represents the probabilty distribution function is often known 
 
 2. Normal Distribution
    
-  A normal distribution has a bell-shaped density curve described by its mean μ and standard deviation σ. The density curve is symmetrical, centered about its mean, with its spread determined by its standard deviation showing that data near the mean are more frequent in occurrence than data far from the mean. The probability distribution function of a normal density curve with mean μ and standard deviation σ at a given point x is given by:
-
-  ![formulla](https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1539784816/output_15_0_jv4dw1.png)
+  A normal distribution has a bell-shaped density curve described by its mean μ and standard deviation σ. The density curve is symmetrical, centered about its mean, with its spread determined by its standard deviation showing that data near the mean are more frequent in occurrence than data far from the mean. 
 
   Below is the figure describing what the distribution looks like:
 
