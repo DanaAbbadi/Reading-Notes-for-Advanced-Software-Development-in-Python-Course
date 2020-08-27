@@ -20,7 +20,7 @@ The goal of this site is to assist me in documenting key topics and reminders ab
 | [Python](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class7) |
 | [List Comprehensions in Python](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class8) |
 | [Dunder Methods](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class9) |
-| [Python](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/) |
+| [Stacks and Queues](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class10) |
 | [Python](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/) |
 | [Python](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/) |
 | [Python](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/) |
