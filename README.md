@@ -23,5 +23,5 @@ The goal of this site is to assist me in documenting key topics and reminders ab
 | [Stacks and Queues](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class10) |
 | [Curses](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/curses) |
 | [Snake Game](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/snake_game) |
-| [Python](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/) |
+| [Data Analysis](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class11) |
 | [Python](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/) |
