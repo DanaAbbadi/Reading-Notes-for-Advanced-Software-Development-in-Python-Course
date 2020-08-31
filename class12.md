@@ -124,3 +124,78 @@ CSVs don't have indexes like our DataFrames, so all we need to do is just design
 
         df = pd.read_csv('students.csv', index_col=0)
 
+
+#### Read and Write to Excel
+
+        pd.read_excel('file.xlsx')
+        df.to_excel('dir/myDataFrame.xlsx',  sheet_name='Sheet1')
+
+
+### Selection
+
+* Getting
+  
+  - Get one element
+
+        s['b']
+        -5
+
+  - Get subset of a DataFrame
+
+        df[1:]
+        Country     Capital   Population
+        1  India    New Delhi 1303171035
+        2  Brazil   Brasilia  207847528
+
+
+* Setting
+  
+  Set index a of Series to a value
+
+        s['a'] = 6
+
+### Sort and Rank
+
+* Sort by labels along an axis
+
+        df.sort_index()
+
+* Sort by the values along an axis
+
+        df.sort_values(by='Country') 
+
+* Assign ranks to entries
+
+        df.rank()
+
+### Summary
+
+* Sum of values
+
+        df.sum()
+
+* Cumulative sum of values
+
+        df.cumsum()
+
+* Minimum/maximum values
+
+        df.min()/df.max()
+
+* Minimum/Maximum index value
+
+        df.idxmin()/df.idxmax() 
+
+* Summary statistics
+
+        df.describe()
+
+* Mean of values
+
+        df.mean()
+
+
+
+
+
+
