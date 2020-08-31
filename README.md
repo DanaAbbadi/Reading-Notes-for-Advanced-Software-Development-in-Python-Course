@@ -24,4 +24,8 @@ The goal of this site is to assist me in documenting key topics and reminders ab
 | [Curses](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/curses) |
 | [Snake Game](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/snake_game) |
 | [Data Analysis](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class11) |
+| [Panda](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class12) |
+
+| [Python](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/) |
+
 | [Python](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/) |
