@@ -28,23 +28,23 @@ The goal of unsupervised learning may be as straightforward as discovering hidde
 
 ![img](https://elitedatascience.com/wp-content/uploads/2018/05/What-Goes-Into-a-Successful-Model.jpg)
 
-1. **Exploratory Analysis**
+**1. Exploratory Analysis**
 
 Exploratory Data Analysis refers to the critical process of performing initial investigations on data so as to discover patterns,to spot anomalies,to test hypothesis and to check assumptions with the help of summary statistics and graphical representations
 
-2. **Data Cleaning**
+**2. Data Cleaning**
 
 Data cleansing or data cleaning is the process of detecting and correcting (or removing) corrupt or inaccurate records from a record set, table, or database and refers to identifying incomplete, incorrect, inaccurate or irrelevant parts of the data and then replacing, modifying, or deleting the dirty or coarse data.
 
-3. **Feature Engineering**
+**3. Feature Engineering**
 
 Feature engineering is the process of using domain knowledge to extract features from raw data via data mining techniques. These features can be used to improve the performance of machine learning algorithms. Feature engineering can be considered as applied machine learning itself.
 
-4. **Algorithm Selection**
+**4. Algorithm Selection**
 
 At its most basic, machine learning uses programmed algorithms that receive and analyse input data to predict output values within an acceptable range. As new data is fed to these algorithms, they learn and optimise their operations to improve performance, developing ‘intelligence’ over time.
 
-5. **Model Training**
+**5. Model Training**
 
-The goal of training a model is to find a set of weights and biases that have low loss, on average, across all examples. For example, Figure 3 shows a high loss model on the left and a low loss model on the right. Note the following about the figure: The arrows represent loss.
+The goal of training a model is to find a set of weights and biases that have low loss, on average, across all examples. 
 
