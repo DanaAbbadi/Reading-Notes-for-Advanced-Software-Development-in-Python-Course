@@ -31,3 +31,4 @@ The goal of this site is to assist me in documenting key topics and reminders ab
 | [Machine Learning](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class16) |
 | [Web Scraping](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class17) |
 | [Cryptography ](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class18) |
+| [Regular Expression  ](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class19) |
