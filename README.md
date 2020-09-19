@@ -16,8 +16,8 @@ The goal of this site is to assist me in documenting key topics and reminders ab
 | [Files Reading and Writing](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class3) |
 | [Classes and objects](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class4) |
 | [Linked Lists](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class5) |
-| [Python](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class6) |
-| [Python](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class7) |
+| [Random Module](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class6) |
+| [Python Scope](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class7) |
 | [List Comprehensions in Python](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class8) |
 | [Dunder Methods](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class9) |
 | [Stacks and Queues](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class10) |
@@ -32,3 +32,4 @@ The goal of this site is to assist me in documenting key topics and reminders ab
 | [Web Scraping](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class17) |
 | [Cryptography ](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class18) |
 | [Regular Expression  ](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class19) |
+| [Intro to Django](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class20) |
