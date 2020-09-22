@@ -35,4 +35,4 @@ The goal of this site is to assist me in documenting key topics and reminders ab
 | [Intro to Django](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class20) |
 | [Django Models](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class21) |
 | [Django CRUD and Forms](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class22) |
-| [Django CRUD and Forms](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class22) |
+| [Django Custom User](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class23) |
