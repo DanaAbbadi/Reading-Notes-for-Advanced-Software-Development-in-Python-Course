@@ -87,7 +87,7 @@ We don’t need to do much in our name.html template:
 
 ``` html
 <form action="/your-name/" method="post">
-    {% csrf_token %}
+    {% token %}
     {{ form }}
     <input type="submit" value="Submit">
 </form>
