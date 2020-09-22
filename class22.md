@@ -85,7 +85,7 @@ If is_valid() is True, we’ll now be able to find all the validated form data i
 
 We don’t need to do much in our name.html template:
 
-``` html
+``` 
 <form action="/your-name/" method="post">
     {% token %}
     {{ form }}
