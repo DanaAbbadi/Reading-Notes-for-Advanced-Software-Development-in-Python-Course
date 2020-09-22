@@ -87,7 +87,6 @@ We don’t need to do much in our name.html template:
 
 ``` 
 <form action="/your-name/" method="post">
-    {% token %}
     {{ form }}
     <input type="submit" value="Submit">
 </form>
