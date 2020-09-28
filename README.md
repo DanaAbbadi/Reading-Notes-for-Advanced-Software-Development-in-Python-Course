@@ -38,3 +38,4 @@ The goal of this site is to assist me in documenting key topics and reminders ab
 | [Django Custom User](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class23) |
 | [Hash Tables](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class24) |
 | [Python Docker](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class25) |
+| [DRF Permissions](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class26) |
