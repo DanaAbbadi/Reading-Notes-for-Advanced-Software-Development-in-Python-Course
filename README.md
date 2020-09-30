@@ -40,3 +40,4 @@ The goal of this site is to assist me in documenting key topics and reminders ab
 | [Python Docker](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class25) |
 | [DRF Permissions](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class26) |
 | [JSON Web Tokens](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class27) |
+| [SSH Tutorial](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class28) |
