@@ -42,3 +42,4 @@ The goal of this site is to assist me in documenting key topics and reminders ab
 | [JSON Web Tokens](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class27) |
 | [SSH Tutorial](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class28) |
 | [Graphs](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class29) |
+| [Whiteboard Interview](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class30) |
