@@ -45,3 +45,4 @@ The goal of this site is to assist me in documenting key topics and reminders ab
 | [Whiteboard Interview](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class30) |
 | [React](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class31) |
 | [React 2](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class32) |
+| [React 3](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class33) |
