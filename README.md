@@ -47,3 +47,4 @@ The goal of this site is to assist me in documenting key topics and reminders ab
 | [React 2](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class32) |
 | [React 3](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class33) |
 | [Ethics](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class34) |
+| [Pythonisms](https://danaabbadi.github.io/Reading-Notes-for-Advanced-Software-Development-in-Python-Course/class35) |
